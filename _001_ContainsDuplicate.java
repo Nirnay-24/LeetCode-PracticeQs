@@ -1,6 +1,6 @@
 /*
 ------------------------------------------------
-Problem: #1 - Contains Duplicate
+Problem: #001 - Contains Duplicate
 Problem Link: https://leetcode.com/problems/contains-duplicate/description/
 
 Problem Statement Summary:
